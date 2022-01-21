@@ -1,0 +1,2 @@
+D:\github\WinRAR.exe\lobby\Monopoly\obj\Debug\PhotonUnityNetworking.Demos.csproj.AssemblyReference.cache
+D:\github\WinRAR.exe\lobby\Monopoly\obj\Debug\PhotonUnityNetworking.Demos.csproj.CoreCompileInputs.cache

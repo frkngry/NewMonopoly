@@ -1,0 +1,2 @@
+D:\github\WinRAR.exe\lobby\Monopoly\obj\Debug\PunDemos.DemoHubEditor.csproj.AssemblyReference.cache
+D:\github\WinRAR.exe\lobby\Monopoly\obj\Debug\PunDemos.DemoHubEditor.csproj.CoreCompileInputs.cache

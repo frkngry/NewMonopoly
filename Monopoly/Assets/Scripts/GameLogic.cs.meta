@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6eb8a30d794545446a560e6c96881ab3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerPropertyItemPrefab: {fileID: 8742362036270102145, guid: d1efc86207364004d9c36df5eaa0df29, type: 3}
+  - gamelogic: {instanceID: 0}
+  - money_text: {instanceID: 0}
+  - PlayerPrefab: {instanceID: 0}
+  - buy_auct_panel: {instanceID: 0}
+  - player: {instanceID: 0}
+  - EndTurnButton: {instanceID: 0}
+  - RollDiceButton: {instanceID: 0}
+  - dices: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

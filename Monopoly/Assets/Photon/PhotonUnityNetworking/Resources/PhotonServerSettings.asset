@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: e0eba182-a2c7-40d6-a8e2-853e63d956bb
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: tr
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: 
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - set_turn
+  - set_numbers
+  - set_sprites
+  - BuyProperty
+  - giveMoney
+  - takeMoney
+  - set_name_for_prefab
+  - take_money
+  - set_index_for_player
+  - set_update
+  - set_color_for_prefab
+  - set_prefab_color
+  - go_to_jail
+  - set_housability
+  - increase_house_count
+  - instentiate_house
+  - instentiate_hotel
+  - set_has_hotel_true
+  - set_hotelability
+  - decrease_house_count
+  - destroy_house
+  - destroy_hotel
+  - set_hotelsellability
+  - set_housesellability
+  - set_has_hotel_false
+  - set_mortgage_state
+  - send_trade_request
+  - accept_trade_offer
+  - reject_trade_offer
+  - change_positions
+  - increase_confirm_count_for_all
+  - set_money_show
+  - close_trade
+  - go_bankrupt_all
+  - set_prices
+  - AuctionStart
+  - CloseAll
+  - InitAuctionValues
+  - NextTurn
+  - UpdateVals
+  - WithdrawPlayer
+  - BuyPropertyCustom
+  - OpenAllAuctions
+  - go_to_jail_with_card
+  - move_back
+  - move_to_location
+  - pay_property_cost
+  - increase_loyality_rate
+  - set_loyality_rate
+  - set_text
+  - set_difficulty
+  - deactivate
+  - set_card
+  - set_card_property
+  - set_card_railroad
+  - set_card_utility
+  - AdjustPrice
+  - AdjustRent
+  - IncrementTurnCount
+  - UpdateInflation
+  - set_inflation
+  - set_end_button
+  - move
+  DisableAutoOpenWizard: 1
+  ShowSettings: 0
+  DevRegionSetOnce: 0
