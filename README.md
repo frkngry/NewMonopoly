@@ -6,4 +6,6 @@ Designing with Unity Game Engine.
 
 Added mechanisms such as inflation, loyalty, adhering to traditional monopoly game rules.
 
+You can run the game with the "Monopoly.exe" client in the "builds" folder.
+
 
